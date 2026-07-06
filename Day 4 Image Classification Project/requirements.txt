@@ -1,6 +1,6 @@
-streamlit
-numpy
-Pillow
-opencv-python
-scikit-learn
-joblib
+streamlit>=1.35.0
+numpy>=1.26
+Pillow>=10.0
+opencv-python-headless>=4.10.0
+scikit-learn>=1.5
+joblib>=1.4
